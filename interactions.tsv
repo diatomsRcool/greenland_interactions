@@ -263,8 +263,7 @@ EOL:328656	Ovibos moschatus	RO:0002470	eats	EOL:32667	Salix	GEONAMES:3425505	Gre
 EOL:39510	Ovis	RO:0002470	eats	EOL:44475	Betula	GEONAMES:3425505	Greenland					Jensen & Christensen (Eds) 2003. The Biodiversity of Greenland - A Country Study. Technical Report 55.  Pinngortitaleriffik, Grønlands Naturinstitut. 165 pp	
 EOL:39510	Ovis	RO:0002470	eats	EOL:8223	Poaceae	GEONAMES:3425505	Greenland					Jensen & Christensen (Eds) 2003. The Biodiversity of Greenland - A Country Study. Technical Report 55.  Pinngortitaleriffik, Grønlands Naturinstitut. 165 pp	
 EOL:39510	Ovis	RO:0002470	eats	EOL:32667	Salix	GEONAMES:3425505	Greenland					Jensen & Christensen (Eds) 2003. The Biodiversity of Greenland - A Country Study. Technical Report 55.  Pinngortitaleriffik, Grønlands Naturinstitut. 165 pp	
-EOL:1238185	peregrine falcon	RO:0002470	eats	EOL:328422	Dicrostonyx torquatus	GEONAMES:3425505	Greenland					Jensen & Christensen (Eds) 2003. The Biodiversity of Greenland - A Country Study. Technical Report 55.  Pinngortitaleriffik, Grønlands Naturinstitut. 165 pp
-	
+EOL:1238185	peregrine falcon	RO:0002470	eats	EOL:328422	Dicrostonyx torquatus	GEONAMES:3425505	Greenland					Jensen & Christensen (Eds) 2003. The Biodiversity of Greenland - A Country Study. Technical Report 55.  Pinngortitaleriffik, Grønlands Naturinstitut. 165 pp	
 EOL:16311	Phellinus	RO:0002444	parasitizes	EOL:107300	Alnus	GEONAMES:3425505	Greenland					Jensen & Christensen (Eds) 2003. The Biodiversity of Greenland - A Country Study. Technical Report 55.  Pinngortitaleriffik, Grønlands Naturinstitut. 165 pp	
 EOL:16311	Phellinus	RO:0002444	parasitizes	EOL:44475	Betula	GEONAMES:3425505	Greenland					Jensen & Christensen (Eds) 2003. The Biodiversity of Greenland - A Country Study. Technical Report 55.  Pinngortitaleriffik, Grønlands Naturinstitut. 165 pp	
 EOL:328629	Phoca vitulina	RO:0002470	eats	EOL:847095	Clupea harengus	GEONAMES:3425505	Greenland					Jensen & Christensen (Eds) 2003. The Biodiversity of Greenland - A Country Study. Technical Report 55.  Pinngortitaleriffik, Grønlands Naturinstitut. 165 pp	
@@ -323,25 +322,25 @@ EOL:34444	Somateria	RO:0002470	eats	EOL:619494	Margarita helicina	GEONAMES:34255
 EOL:34444	Somateria	RO:0002470	eats	EOL:492905	Mya truncata	GEONAMES:3425505	Greenland					Jensen & Christensen (Eds) 2003. The Biodiversity of Greenland - A Country Study. Technical Report 55.  Pinngortitaleriffik, Grønlands Naturinstitut. 165 pp	
 EOL:34444	Somateria	RO:0002470	eats	EOL:502990	Nucella lapillus	GEONAMES:3425505	Greenland					Jensen & Christensen (Eds) 2003. The Biodiversity of Greenland - A Country Study. Technical Report 55.  Pinngortitaleriffik, Grønlands Naturinstitut. 165 pp	
 EOL:34444	Somateria	RO:0002470	eats	EOL:449116	Serripes groenlandicus	GEONAMES:3425505	Greenland					Jensen & Christensen (Eds) 2003. The Biodiversity of Greenland - A Country Study. Technical Report 55.  Pinngortitaleriffik, Grønlands Naturinstitut. 165 pp	
-EOL:205932	Somniosus microcephalus	RO:0002471	eats	EOL:1049773	Alle alle	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
+EOL:205932	Somniosus microcephalus	RO:0002470	eats	EOL:1049773	Alle alle	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
 EOL:205932	Somniosus microcephalus	RO:0002470	eats	EOL:24549	Ammodytes	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
 EOL:205932	Somniosus microcephalus	RO:0002470	eats	EOL:222376	Anarchichas lupus	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
 EOL:205932	Somniosus microcephalus	RO:0002470	eats		carrion	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
 EOL:205932	Somniosus microcephalus	RO:0002470	eats	EOL:2604866	crab	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
 EOL:205932	Somniosus microcephalus	RO:0002470	eats	EOL:328631	Erignathus barbatus	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
-EOL:205932	Somniosus microcephalus	RO:0002472	eats	EOL:1049938	Fratercula arctica	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
+EOL:205932	Somniosus microcephalus	RO:0002470	eats	EOL:1049938	Fratercula arctica	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
 EOL:205932	Somniosus microcephalus	RO:0002470	eats	EOL:206692	Gadus morhua	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
 EOL:205932	Somniosus microcephalus	RO:0002470	eats	EOL:206695	Gadus ogac	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
 EOL:205932	Somniosus microcephalus	RO:0002470	eats	EOL:211041	Hippoglossoides platessoides	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
-EOL:205932	Somniosus microcephalus	RO:0002473	eats	EOL:8001	Laridae	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
+EOL:205932	Somniosus microcephalus	RO:0002470	eats	EOL:8001	Laridae	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
 EOL:205932	Somniosus microcephalus	RO:0002470	eats	EOL:224625	Liparis tunicata	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
 EOL:205932	Somniosus microcephalus	RO:0002470	eats	EOL:205084	Mallotus villosus	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
 EOL:205932	Somniosus microcephalus	RO:0002470	eats	EOL:328629	Phoca vitulina	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
 EOL:205932	Somniosus microcephalus	RO:0002470	eats	EOL:212353	Pholis gunellus	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
 EOL:205932	Somniosus microcephalus	RO:0002470	eats	EOL:1156463	Salvelinus alpinus	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
 EOL:205932	Somniosus microcephalus	RO:0002470	eats	EOL:994490	Sebastes marinus	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
-EOL:205932	Somniosus microcephalus	RO:0002474	eats	EOL:34444	Somateria	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
-EOL:205932	Somniosus microcephalus	RO:0002475	eats	EOL:20224	Uria	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
+EOL:205932	Somniosus microcephalus	RO:0002470	eats	EOL:34444	Somateria	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
+EOL:205932	Somniosus microcephalus	RO:0002470	eats	EOL:20224	Uria	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31266344
 EOL:205932	Somniosus microcephalus	RO:0002470	eats	EOL:223486	Arctogadus glacialis	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31422853
 EOL:205932	Somniosus microcephalus	RO:0002470	eats	EOL:203867	Boreogadus saida	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31422853
 EOL:205932	Somniosus microcephalus	RO:0002470	eats	EOL:847095	Clupea harengus	GEONAMES:3425505	Greenland						http://eol.org/data_objects/31422853
